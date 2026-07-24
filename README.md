@@ -529,16 +529,16 @@ After completing all modules in this repository, you will be able to:
 
 | Technology | Concept | Implementation | Best Practices |
 |-----------|:-------:|:--------------:|:--------------:|
-| HTML5 | ✔️ | ✔️ | ✔️ |
-| CSS3 | ✔️ | ✔️ | ✔️ |
-| JavaScript | ✔️ | ✔️ | ✔️ |
-| Bootstrap 5 | ✔️ | ✔️ | ✔️ |
-| jQuery | ✔️ | ✔️ | ✔️ |
-| MySQL / SQL | ✔️ | ✔️ | ✔️ |
-| C# ADO.NET | ✔️ | ✔️ | ✔️ |
-| Responsive Design | ✔️ | ✔️ | ✔️ |
-| DOM Manipulation | ✔️ | ✔️ | ✔️ |
-| Async JavaScript | ✔️ | ✔️ | ✔️ |
+| HTML5 | Yes | Yes | Yes |
+| CSS3 | Yes | Yes | Yes |
+| JavaScript | Yes | Yes | Yes |
+| Bootstrap 5 | Yes | Yes | Yes |
+| jQuery | Yes | Yes | Yes |
+| MySQL / SQL | Yes | Yes | Yes |
+| C# ADO.NET | Yes | Yes | Yes |
+| Responsive Design | Yes | Yes | Yes |
+| DOM Manipulation | Yes | Yes | Yes |
+| Async JavaScript | Yes | Yes | Yes |
 
 ---
 
