@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Working with Events</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+<body>
+
+    <button id="colorBtn">Change Color</button>
+
+    <div id="colorBox" style="width:200px; height:150px; border:1px solid black; margin-top:20px;">
+        Color Box
+    </div>
+
+    <script>
+        $("#colorBtn").click(function () {
+            $("#colorBox").css("background-color", "red");
+        });
+
+        $("#colorBox").dblclick(function () {
+            $("#colorBox").css("background-color", "white");
+        });
+    </script>
+
+</body>
+</html>

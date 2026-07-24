@@ -1,0 +1,11 @@
+.news {
+    column-count: 2;
+    column-gap: 30px;
+    column-rule: 1px solid gray;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: center;
+}

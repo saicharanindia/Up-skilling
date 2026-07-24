@@ -1,0 +1,8 @@
+SELECT
+    e.title,
+    COUNT(s.session_id) AS total_sessions
+FROM Events e
+JOIN Sessions s
+    ON e.event_id = s.event_id
+GROUP BY e.title
+ORDER BY total_sessions DES

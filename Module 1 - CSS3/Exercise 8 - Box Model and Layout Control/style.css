@@ -1,0 +1,24 @@
+.eventCard {
+    border: 3px solid navy;
+    padding: 20px;
+    margin: 20px;
+    background-color: lightyellow;
+}
+
+.highlightField {
+    padding: 10px;
+    outline: 3px solid red;
+    margin: 20px;
+}
+
+.hiddenBox {
+    visibility: hidden;
+}
+
+.noneBox {
+    display: none;
+}
+
+h1 {
+    text-align: center;
+}

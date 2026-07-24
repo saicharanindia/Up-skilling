@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Debugging with Chrome DevTools</title>
+
+    <style>
+        h1 {
+            color: blue;
+        }
+
+        .box {
+            width: 300px;
+            padding: 20px;
+            border: 2px solid black;
+            background-color: lightyellow;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Chrome DevTools Debugging</h1>
+
+    <div class="box">
+        <p id="message">Click the button to test JavaScript debugging.</p>
+        <button onclick="showMessage()">Click Me</button>
+    </div>
+
+    <script>
+        function showMessage() {
+            let userName = "Hari Kalyan";
+            console.log("Button clicked");
+            console.log("User Name:", userName);
+
+            document.getElementById("message").innerHTML =
+                "Debugging completed successfully!";
+        }
+    </script>
+
+</body>
+</html>

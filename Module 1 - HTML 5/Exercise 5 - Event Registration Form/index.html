@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Event Registration Form</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        form {
+            width: 350px;
+            margin: auto;
+            padding: 20px;
+            border: 2px solid black;
+            border-radius: 10px;
+        }
+
+        input, select, textarea {
+            width: 100%;
+            margin: 8px 0;
+            padding: 8px;
+        }
+
+        button {
+            padding: 10px;
+            width: 100%;
+            background-color: blue;
+            color: white;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 align="center">Event Registration Form</h1>
+
+    <form onsubmit="showMessage(event)">
+        <label>Name:</label>
+        <input type="text" placeholder="Enter your name" required autofocus>
+
+        <label>Email:</label>
+        <input type="email" placeholder="Enter your email" required>
+
+        <label>Event Date:</label>
+        <input type="date" required>
+
+        <label>Event Type:</label>
+        <select required>
+            <option value="">Select Event</option>
+            <option>Music Event</option>
+            <option>Sports Event</option>
+            <option>Food Festival</option>
+        </select>
+
+        <label>Message:</label>
+        <textarea placeholder="Enter your message"></textarea>
+
+        <button type="submit">Register</button>
+
+        <br><br>
+        <output id="result"></output>
+    </form>
+
+    <script>
+        function showMessage(event) {
+            event.preventDefault();
+            document.getElementById("result").innerHTML =
+                "Registration successful!";
+        }
+    </script>
+
+</body>
+</html>
