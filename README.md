@@ -361,19 +361,19 @@ Up-skilling/
 
 | Skill | Level | Category |
 |-------|-------|----------|
-| HTML5 | ⭐⭐⭐⭐⭐ | Web Fundamentals |
-| CSS3 | ⭐⭐⭐⭐⭐ | Web Fundamentals |
-| JavaScript ES2023 | ⭐⭐⭐⭐ | Scripting |
-| Bootstrap 5 | ⭐⭐⭐⭐⭐ | UI Framework |
-| jQuery | ⭐⭐⭐⭐ | DOM Library |
-| MySQL | ⭐⭐⭐⭐ | Database |
-| ANSI SQL | ⭐⭐⭐⭐⭐ | Database |
-| C# ADO.NET | ⭐⭐⭐⭐ | Data Access |
-| Responsive Design | ⭐⭐⭐⭐⭐ | Web Design |
-| DOM Manipulation | ⭐⭐⭐⭐ | JavaScript |
-| Async Programming | ⭐⭐⭐⭐ | JavaScript |
-| LocalStorage API | ⭐⭐⭐ | Web APIs |
-| Geolocation API | ⭐⭐⭐ | Web APIs |
+| HTML5 | Advanced | Web Fundamentals |
+| CSS3 | Advanced | Web Fundamentals |
+| JavaScript ES2023 | Intermediate | Scripting |
+| Bootstrap 5 | Advanced | UI Framework |
+| jQuery | Intermediate | DOM Library |
+| MySQL | Intermediate | Database |
+| ANSI SQL | Advanced | Database |
+| C# ADO.NET | Intermediate | Data Access |
+| Responsive Design | Advanced | Web Design |
+| DOM Manipulation | Intermediate | JavaScript |
+| Async Programming | Intermediate | JavaScript |
+| LocalStorage API | Intermediate | Web APIs |
+| Geolocation API | Intermediate | Web APIs |
 
 </div>
 
