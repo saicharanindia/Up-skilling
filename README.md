@@ -528,17 +528,17 @@ After completing all modules in this repository, you will be able to:
 ## 📊 Skill Matrix
 
 | Technology | Concept | Implementation | Best Practices |
-|-----------|---------|---------------|----------------|
-| HTML5 | ✅ | ✅ | ✅ |
-| CSS3 | ✅ | ✅ | ✅ |
-| JavaScript | ✅ | ✅ | ✅ |
-| Bootstrap 5 | ✅ | ✅ | ✅ |
-| jQuery | ✅ | ✅ | ✅ |
-| MySQL / SQL | ✅ | ✅ | ✅ |
-| C# ADO.NET | ✅ | ✅ | ✅ |
-| Responsive Design | ✅ | ✅ | ✅ |
-| DOM Manipulation | ✅ | ✅ | ✅ |
-| Async JavaScript | ✅ | ✅ | ✅ |
+|-----------|:-------:|:--------------:|:--------------:|
+| HTML5 | ✔️ | ✔️ | ✔️ |
+| CSS3 | ✔️ | ✔️ | ✔️ |
+| JavaScript | ✔️ | ✔️ | ✔️ |
+| Bootstrap 5 | ✔️ | ✔️ | ✔️ |
+| jQuery | ✔️ | ✔️ | ✔️ |
+| MySQL / SQL | ✔️ | ✔️ | ✔️ |
+| C# ADO.NET | ✔️ | ✔️ | ✔️ |
+| Responsive Design | ✔️ | ✔️ | ✔️ |
+| DOM Manipulation | ✔️ | ✔️ | ✔️ |
+| Async JavaScript | ✔️ | ✔️ | ✔️ |
 
 ---
 
